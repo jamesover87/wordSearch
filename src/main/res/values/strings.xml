@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordSearch</string>
+    <string name="letterNumEditText">6</string>
+    <string name="submitButton">Search</string>
+</resources>
